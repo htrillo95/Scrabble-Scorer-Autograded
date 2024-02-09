@@ -110,7 +110,7 @@ function runProgram() {
    console.log(`Score for '${userWord}': ${score}`);
 }
 
-
+//done.
 // Don't write any code below this line //
 
 // And don't change these or your program will not run as expected //
